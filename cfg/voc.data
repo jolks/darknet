@@ -1,6 +1,6 @@
 classes= 20
-train  = /home/pjreddie/data/voc/train.txt
-valid  = /home/pjreddie/data/voc/2007_test.txt
+train  = /Users/johnlau/Documents/projects/darknet/train.txt
+valid  = /Users/johnlau/Documents/projects/darknet/2007_test.txt
 names = data/voc.names
 backup = backup
 
